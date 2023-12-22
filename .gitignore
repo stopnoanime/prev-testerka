@@ -1,3 +1,4 @@
 *.out
 prev.cpp
 memcheck.log
+*.e
