@@ -4,7 +4,7 @@ g++ @opcjeCpp main.cpp prev.cpp -o main.e
 
 testSize=100;
 pushRate=0.6;
-xRange=1000;
+xRange=2147483647;
 
 GREEN='\033[0;32m'
 RED='\033[0;31m'
